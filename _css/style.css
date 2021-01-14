@@ -1,6 +1,6 @@
 @font-face {
     font-family: Futura New;
-    src: url(../_fonts/FuturaNewLight-Reg.ttf);
+    src: url(/_fonts/FuturaNewLight-Reg.ttf);
 }
 body {
     margin: 0;
@@ -31,7 +31,7 @@ h3 {
     text-align: center;
 }
 .content-5_foto-1 {
-    background-image: url(../images/foto5.jpg);
+    background-image: url(/images/foto5.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -39,7 +39,7 @@ h3 {
     max-width: 682px;
 }
 .content-5_foto-2 {
-    background-image: url(../images/foto6.jpg);
+    background-image: url(/images/foto6.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -47,7 +47,7 @@ h3 {
     max-width: 682px;
 }
 .content-5_foto-3 {
-    background-image: url(../images/foto7.jpg);
+    background-image: url(/images/foto7.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -74,7 +74,7 @@ h3 {
     text-align: center;
 }
 .content-8_foto-1 {
-    background-image: url(../images/foto10.jpg);
+    background-image: url(/images/foto10.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -82,7 +82,7 @@ h3 {
     max-width: 682px;
 }
 .content-8_foto-2 {
-    background-image: url(../images/foto11.jpg);
+    background-image: url(/images/foto11.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -90,7 +90,7 @@ h3 {
     max-width: 682px;
 }
 .content-8_foto-3 {
-    background-image: url(../images/foto12.jpg);
+    background-image: url(/images/foto12.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -101,7 +101,7 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(../images/foto13.jpg);
+    background-image: url(/images/foto13.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
@@ -127,7 +127,7 @@ h3 {
     .content-1 {
         display: flex;
         align-items: flex-end;
-        background-image: url(../images/foto1.jpg);
+        background-image: url(/images/foto1.jpg);
         background-repeat: no-repeat;
         background-position: 70%;
         background-size: cover;
@@ -146,7 +146,7 @@ h3 {
     .content-2 {
         display: flex;
         align-items: center;
-        background-image: url(../images/foto2.jpg);
+        background-image: url(/images/foto2.jpg);
         background-repeat: no-repeat;
         background-position: 70%;
         background-size: cover;
@@ -173,7 +173,7 @@ h3 {
     .content-3 {
         display: flex;
         align-items: flex-end;
-        background-image: url(../images/foto3.jpg);
+        background-image: url(/images/foto3.jpg);
         background-repeat: no-repeat;
         background-position: 55%;
         background-size: cover;
@@ -183,7 +183,7 @@ h3 {
     .content-4 {
         display: flex;
         align-items: flex-end;
-        background-image: url(../images/foto4.jpg);
+        background-image: url(/images/foto4.jpg);
         background-repeat: no-repeat;
         background-position: 70%;
         background-size: cover;
@@ -193,7 +193,7 @@ h3 {
     .content-6 {
         display: flex;
         align-items: flex-end;
-        background-image: url(../images/foto8.jpg);
+        background-image: url(/images/foto8.jpg);
         background-repeat: no-repeat;
         background-position: 70%;
         background-size: cover;
@@ -203,7 +203,7 @@ h3 {
     .content-7 {
         display: flex;
         align-items: flex-end;
-        background-image: url(../images/foto9.jpg);
+        background-image: url(/images/foto9.jpg);
         background-repeat: no-repeat;
         background-position: 50%;
         background-size: cover;
@@ -219,7 +219,7 @@ h3 {
         width: 100%;
     }
     .content-1_fon {
-        background-image: url(../images/foto1.jpg);
+        background-image: url(/images/foto1.jpg);
         background-repeat: no-repeat;
         background-position: 85%;
         background-size: cover;
@@ -235,7 +235,7 @@ h3 {
     .content-2 {
         display: flex;
         flex-direction: column;
-        background-image: url(../images/foto2.jpg);
+        background-image: url(/images/foto2.jpg);
         background-repeat: no-repeat;
         background-position: 80%;
         background-size: cover;
@@ -276,7 +276,7 @@ h3 {
         width: 100%;
     }
     .content-3_fon {
-        background-image: url(../images/foto3.jpg);
+        background-image: url(/images/foto3.jpg);
         background-repeat: no-repeat;
         background-position: 60%;
         background-size: cover;
@@ -289,7 +289,7 @@ h3 {
         width: 100%;
     }
     .content-4_fon {
-        background-image: url(../images/foto4.jpg);
+        background-image: url(/images/foto4.jpg);
         background-repeat: no-repeat;
         background-position: 60%;
         background-size: cover;
@@ -302,7 +302,7 @@ h3 {
         width: 100%;
     }
     .content-6_fon {
-        background-image: url(../images/foto8.jpg);
+        background-image: url(/images/foto8.jpg);
         background-repeat: no-repeat;
         background-position: 85%;
         background-size: cover;
@@ -315,7 +315,7 @@ h3 {
         width: 100%;
     }
     .content-7_fon {
-        background-image: url(../images/foto9.jpg);
+        background-image: url(/images/foto9.jpg);
         background-repeat: no-repeat;
         background-position: 60%;
         background-size: cover;
